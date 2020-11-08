@@ -4,7 +4,8 @@ ini_set('zlib.output_compression_level', '3'); ?>
 /**
  * The Header template for our theme
  */
-?><!DOCTYPE html>
+?>
+<!DOCTYPE html>
 <html lang="ru-RU">
 <head>
 	<meta charset="UTF-8">
